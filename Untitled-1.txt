@@ -1,0 +1,3 @@
+git config --global user.name "Tai pham "
+git config --global user.email "pvtai12122004@gmail.com"
+git config credential.helper store
