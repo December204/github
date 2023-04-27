@@ -76,15 +76,4 @@ if (score<4){
     console.log('excellent')
 
 }
-var score = 9
-if (score <4){
-    console.log('Tb');
-}else if (score>=4 &&  score <8 ){
-    console.log('kha');
-}else if (score>=8 && score <9 ){
-    console.log('gioi')
-}else {
-    console.log ('Excellent');  
-}
-
 
